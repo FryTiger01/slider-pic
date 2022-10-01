@@ -1,0 +1,39 @@
+img{
+    width:600px;
+    height: 500px;
+    border-radius: 15px;
+
+}
+a{
+    font-size:50px;
+    text-decoration: none;
+    color: black;
+    box-shadow:rgb(95, 95, 95);
+    transition:0.1s;
+}
+.bg{
+    background-color: rgb(57, 57, 57);
+}
+.div-pic{
+    display: flex;
+    justify-content: center;
+}
+.div-pic__child{
+    box-shadow:black;
+    padding:20px;
+    background-color: rgb(111, 111, 111);
+    font-weight:900;
+    border-radius: 15px;
+    
+
+}
+.div-div{
+    background-color: rgb(76, 76, 76);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+
+
+
+
